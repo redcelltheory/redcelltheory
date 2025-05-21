@@ -9,9 +9,9 @@
 ## 🧬 What is The Red Cell Theory ?
 
 ![Status](https://img.shields.io/badge/status-in_progress-903624)
-![Role](https://img.shields.io/badge/also-Content_Creator-732b1d)
-![Focus](https://img.shields.io/badge/focus-storytelling-e7ccab)
-![Thematics](https://img.shields.io/badge/thematics-medical_research-732b1d)
+![Role](https://img.shields.io/badge/also-Content_Creator-e7ccab)
+![Focus](https://img.shields.io/badge/focus-storytelling-732b1d)
+![Thematics](https://img.shields.io/badge/thematics-medical_research-f3dcba)
 ![Language](https://img.shields.io/badge/language-Baguette_🥖-903624)
 ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
