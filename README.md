@@ -11,7 +11,7 @@
 ![Status](https://img.shields.io/badge/status-in_progress-903624)
 ![Role](https://img.shields.io/badge/role-content_creator-e18f37)
 ![Focus](https://img.shields.io/badge/focus-storytelling-4c534e)
-![Thematics](https://img.shields.io/badge/thematics-medical_research-732b1d)
+![Thematics](https://img.shields.io/badge/thematics-medical_research-aa5621)
 ![Language](https://img.shields.io/badge/language-Baguette_🥖-732b1d)
 ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
