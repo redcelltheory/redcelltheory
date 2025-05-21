@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="">
+    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/banners/banner_github.svg" alt="Banner The Red Cell Theory" style="width:100%;">
+  </a>
+</p>
 
 ---
 
