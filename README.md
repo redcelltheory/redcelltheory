@@ -11,7 +11,7 @@
 ![Status](https://img.shields.io/badge/status-in_progress-903624)
 ![Focus](https://img.shields.io/badge/focus-storytelling-e7ccab)
 ![Thematics](https://img.shields.io/badge/thematics-medical_research-732b1d)
-![Language](https://img.shields.io/badge/cuisine_interne-100%25%20Baguette%20🥖-903624)
+![Language](https://img.shields.io/badge/language-Baguette🥖-903624)
 ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
 Welcome!
