@@ -38,13 +38,13 @@ This GitHub is the behind-the-scenes tech & creative lab of the project. Reposit
 
 ---
 
-🛠️ Tech Stack and Tools
+🛠️ My Tech Stack and Toolkit
 
-- HTML, CSS, JavaScript — for building the website and visual bits
-- Python — for automation and behind-the-scenes magic
-- Adobe Photoshop — for illustrations, logos, SVGs
-- Adobe Audition - for audio capture
-- Adobe Premiere Pro - for video editing
+- **HTML, CSS, JavaScript** — for website development and visual layouts.
+- **Python 3.12** — for scripting, automation, and various backend tasks.
+- **Adobe Photoshop 2025** — for graphic design, including banners, logos, and other visual assets.
+- **Adobe Audition 2025** - for audio recording and editing.
+- **Adobe Premiere Pro 2025** - for video production and editing.
 
 Technologies may change over time as the project grows.
 
@@ -68,7 +68,7 @@ I'm working solo for now, but I’m always open to connecting with other science
 
 🌐 Related Links and Networks
 
-[![Website](https://img.shields.io/badge/Website-redcelltheory.fr- tiềm?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.redcelltheory.fr)
+[![Website](https://img.shields.io/badge/Website-redcelltheory.fr-blue?style=for-the-badge)](https://www.redcelltheory.fr)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@TheRedCellTheory)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/theredcelltheory)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
