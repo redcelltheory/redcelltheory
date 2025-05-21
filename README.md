@@ -48,7 +48,7 @@ This GitHub is the behind-the-scenes tech & creative lab of the project. Reposit
 
 ---
 
-🛠️ My Tech Stack and Toolkit
+## 🛠️ My Tech Stack and Toolkit
 
 - **HTML, CSS, JavaScript** — for website development and visual layouts.
 - **Python 3.12** — for scripting, automation, and various backend tasks.
@@ -69,12 +69,12 @@ If I can spark your curiosity, even just for a second, , then I’ll be truly ha
 
 ---
 
-📜 License
+## 📜 License
 The repositories are currently private and non-open-source. All code and content are for internal use unless otherwise stated. If you’re interested in contributing or using anything here — feel free to reach out!
 
 ---
 
-🤝 Contributions
+## 🤝 Contributions
 
 I'm working solo for now, but I’m always open to connecting with other science communicators, developers, designers, or any curious mind about the project.
 
@@ -82,7 +82,7 @@ I'm working solo for now, but I’m always open to connecting with other science
 
 ---
 
-🌐 Related Links and Networks
+## 🌐 Related Links and Networks
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.redcelltheory.fr)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@redcelltheory)
