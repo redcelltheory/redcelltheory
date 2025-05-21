@@ -71,7 +71,7 @@ I'm working solo for now, but I’m always open to connecting with other science
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.redcelltheory.fr)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@redcelltheory)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/theredcelltheory)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@redcelltheory.fr)
 
 ---
