@@ -18,19 +18,6 @@ Welcome!
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
 <p align="left">
-  <span style="display: inline-block; margin-right: 80px; outline: 1px dashed green;">
-    <a href="URL_YOUTUBE_A_REMPLACER" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; border-bottom: none !important; display: inline-block; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" style="height: 30px; display: block;"/>
-    </a>
-  </span>
-  <span style="display: inline-block; margin-right: 80px; outline: 1px dashed green;">
-    <a href="https://twitch.tv/theredcelltheory" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; border-bottom: none !important; display: inline-block; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/twitch.svg" alt="Twitch" style="height: 30px; display: block;"/>
-    </a>
-  </span>
-</p>
-
-<p align="left">
   <a href="https://www.youtube.com/@redcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none; border-bottom: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" style="height: 30px; vertical-align: middle;"/>
   </a>
