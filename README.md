@@ -19,6 +19,7 @@ Welcome!
 
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
+🌐 Related Links and Networks
 <p align="left">
   <a href="https://www.youtube.com/@redcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none; border-bottom: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" style="height: 30px; vertical-align: middle;"/>
