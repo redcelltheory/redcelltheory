@@ -67,12 +67,12 @@ Technologies may change over time as the project grows.
 Just me — a French scientist and epidemiologist, stepping out from the lab to share stories from the world of research and public health.
 I'm exploring content creation and development as an enthusiastic hobbyist I pursue in my free time, alongside my professional career.
 
-If my work here ignites a spark of curiosity in you, even for a fleeting moment, that truly makes my day ₍՞◌′ᵕ‵ू◌₎♡
+If my work here ignites a spark of curiosity in you, even for a fleeting moment, that truly makes my day !
 
 ---
 
 ## 📜 License
-The repositories are currently private and non-open-source. All code and content are for internal use unless otherwise stated. If you’re interested in contributing or using anything here — feel free to reach out ! :]
+The repositories are currently private and non-open-source. All code and content are for internal use unless otherwise stated. If you’re interested in contributing or using anything here — feel free to reach out ! ヾ(＾∇＾) ヾ(′ᵕ‵ू)
 
 ---
 
