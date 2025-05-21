@@ -38,37 +38,6 @@ This space hosts development work for my digital platforms, community tools, beh
 
 ---
 
-## 🚀 My current projects
-
-### 🌐 The Red Cell Theory - Website Project
-
-This is the central spot for updates on the official website for **The Red Cell Theory**! Our goal is to build an engaging and informative online platform for sharing science stories, biomedical discoveries, and fostering our community.
-
-**➡️ Visit the Website:** [www.redcelltheory.fr](https://www.redcelltheory.fr)
-*(Current Status: Under Active Development - Version 0.1 "Coming Soon" page is live!)*
-
-**What I'm Working On / Recent Progress:**
-* *(Manually update this line or bullet point periodically with your latest focus. For example: "Currently refining the responsive design of the v0.1 landing page." or "Just deployed the updated 'Coming Soon' page with new social links!")*
-
-**Key Features (v0.1 & Beyond):**
-* **Current (v0.1):**
-    * Responsive two-panel "Coming Soon" landing page.
-    * Includes: Logo, project description, contact email, social media links, and a background banner.
-* **Planned:**
-    * Blog section for articles and science shorts.
-    * Dedicated showcase for video essays and past livestreams.
-    * Interactive community features.
-
-**Tech Stack Highlights:**
-* **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
-* **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
-* **Icons:** [Font Awesome](https://fontawesome.com/).
-
-**(Optional - See Part 2) Track Detailed Development:**
-* Want to see the nitty-gritty tasks and progress? Check out our [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE) *(<- You'll create this link in Part 2 if you choose to)*.
-
----
-
 ## 💻 What you’ll find here
 
 This GitHub is the behind-the-scenes tech & development lab of the project. Repositories include:
