@@ -1,18 +1,29 @@
 # 🧬 The Red Cell Theory
 
-![Status](https://img.shields.io/badge/status-in_progress-yellow)
-![Focus](https://img.shields.io/badge/focus-science_storytelling-blueviolet)
-![Made with](https://img.shields.io/badge/made_with-curiosity_&_passion-ff69b4)
+[BANNER]
 
 ---
 
 ## 🧬 What is this project?
 
+![Status](https://img.shields.io/badge/status-in_progress-yellow)
+![Focus](https://img.shields.io/badge/focus-science_storytelling-blueviolet)
+![Made with](https://img.shields.io/badge/made_with-curiosity_&_passion-ff69b4)
+![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
+
 Welcome!
 
-**The Red Cell Theory** is a personal project born from a former researcher with a soft spot for telling stories about science, research, and biomedical discoveries in an narrative, and hopefully in an entertaining way. After years in the lab, I stepped into this incredible journey of storytelling and truly hope my project will catch your heart. Whether it’s through video essays, livestreams, discord discussions, or short articles, my goal is try to make science feel as **interesting, accessible, and engaging** in my own small way.
+**The Red Cell Theory** is a personal project born from a former researcher with a soft spot for telling stories about science, research, and biomedical discoveries in an narrative, and hopefully in an entertaining way. After years in the lab, I stepped into this incredible journey of storytelling and truly hope my project will catch your heart. Whether it’s through video essays, livestreams, discord discussions, or short articles, my goal is try to make science feel as **interesting, accessible, and engaging** in my own small way. 
 
-This GitHub space hosts development work for our digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
+This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
+
+<a href="https://www.youtube.com/@redcelltheory" target="_blank">
+  <img src="youtube.svg" alt="YouTube" style="height: 30px; margin-right: 5px;" />
+</a>
+<a href="https://twitch.tv/theredcelltheory" target="_blank">
+  <img src="twitch.svg" alt="Twitch" style="height: 30px; margin-right: 5px;" />
+</a>
+
 ---
 
 ## 💻 What you’ll find here
@@ -23,32 +34,44 @@ This GitHub is the behind-the-scenes tech & creative lab of the project. Reposit
 - 🌐 `redcelltheory-website` → Code for the official website under development
 - 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers
 - 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting
-- 🧪 Other experimental projects (still a researcher at heart 🧪)
+- 🧪 `experiments` → Other experimental projects
 
 ---
 
-## 🧠 Who’s behind all this?
+🛠️ Tech Stack and Tools
+
+- HTML, CSS, JavaScript — for building the website and visual bits
+- Python — for automation and behind-the-scenes magic
+- Adobe Photoshop — for illustrations, logos, SVGs
+- Adobe Audition - for audio capture
+- Adobe Premiere Pro - for video editing
+
+Technologies may change over time as the project grows.
+
+
+## 🧠 Who is behind all this?
 
 Just me — a French scientist and epidemiologist who is trying new things outside the laboratory.
 I am not a professional content creator or developer and do this as a hobby on the side of my job.
 
-If I can spark your curiosity, even just for a second, then I’m doing truly happy :)
+If I can spark your curiosity, even just for a second, , then I’ll be truly happy :)
 
 📜 License
 The repositories are currently private and non-open-source. All code and content are for internal use unless otherwise stated. If you’re interested in contributing or using anything here — feel free to reach out!
 
 🤝 Contributions
 
-I'm working solo for now, but I’m always open to connecting with other science communicators, developers, designers, or any curious mind about the project. 📬 Reach me at contact@redcelltheory.fr
+I'm working solo for now, but I’m always open to connecting with other science communicators, developers, designers, or any curious mind about the project. 
+📬 Reach me at **contact@redcelltheory.fr**
 
 ---
 
 🌐 Related Links and Networks
 
-- **Website**: [redcelltheory.fr](https://www.redcelltheory.fr) *(coming soon)*
-- **YouTube**: [@TheRedCellTheory](https://youtube.com/@TheRedCellTheory)
-- **Twitch**: [twitch.tv/theredcelltheory](https://twitch.tv/theredcelltheory)
-- **Discord**: [Join the Community](https://discord.gg/yourserver)
-- **Email**: [contact@redcelltheory.fr](mailto:contact@redcelltheory.fr)
+[![Website](https://img.shields.io/badge/Website-redcelltheory.fr- tiềm?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.redcelltheory.fr)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@TheRedCellTheory)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/theredcelltheory)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@redcelltheory.fr)
 
 ---
