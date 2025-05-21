@@ -17,11 +17,15 @@ Welcome!
 
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
+<a href="" target="_blank">
+  <img src="[discord.svg](https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/discord.svg?token=GHSAT0AAAAAADD336RXROKEX23KPMJDRN7U2BNXYXQ)" alt="Twitch" style="height: 30px; margin-right: 5px;" />
+</a>
+
 <a href="https://www.youtube.com/@redcelltheory" target="_blank">
-  <img src="youtube.svg" alt="YouTube" style="height: 30px; margin-right: 5px;" />
+  <img src="[youtube.svg](https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/youtube.svg?token=GHSAT0AAAAAADD336RXD2BXNJKO2VINJGME2BNXXSA)" alt="YouTube" style="height: 30px; margin-right: 5px;" />
 </a>
 <a href="https://twitch.tv/theredcelltheory" target="_blank">
-  <img src="twitch.svg" alt="Twitch" style="height: 30px; margin-right: 5px;" />
+  <img src="[twitch.svg](https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/twitch.svg?token=GHSAT0AAAAAADD336RXNYULLI6FZU7IAXUE2BNXYIA)" alt="Twitch" style="height: 30px; margin-right: 5px;" />
 </a>
 
 ---
@@ -61,7 +65,7 @@ The repositories are currently private and non-open-source. All code and content
 
 🤝 Contributions
 
-I'm working solo for now, but I’m always open to connecting with other science communicators, developers, designers, or any curious mind about the project. 
+I'm working solo for now, but I’m always open to connecting with other science communicators, developers, designers, or any curious mind about the project.
 📬 Reach me at **contact@redcelltheory.fr**
 
 ---
