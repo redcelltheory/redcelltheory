@@ -90,4 +90,6 @@ I'm working solo for now, but I’m always open to connecting with other science
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@redcelltheory.fr)
 
+_Website and Discord server are currently in development._
+
 ---
