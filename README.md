@@ -12,7 +12,7 @@
 ![Role](https://img.shields.io/badge/role-content_creator-4c534e)
 ![Focus](https://img.shields.io/badge/focus-storytelling-e18f37)
 ![Thematics](https://img.shields.io/badge/thematics-medical_research-732b1d)
-![Language](https://img.shields.io/badge/language-Baguette_🥖-e7ccab)
+![Language](https://img.shields.io/badge/language-Baguette_🥖-732b1d)
 ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
 Welcome!
