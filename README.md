@@ -17,7 +17,18 @@ Welcome!
 
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
-
+<a href="https://www.youtube.com/@redcelltheory" target="_blank"  rel="noopener noreferrer" style="margin-right: 20px; text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/youtube.svg" alt="YouTube" style="height: 30px; margin-right: 15px;" />
+</a>
+<a href="https://twitch.tv/theredcelltheory" target="_blank"  rel="noopener noreferrer" style="margin-right: 20px; text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/twitch.svg" alt="Twitch" style="height: 30px; margin-right: 15px;" />
+</a>
+<a href="" target="_blank"  rel="noopener noreferrer" style="margin-right: 20px; text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/discord.svg" alt="Discord" style="height: 30px; margin-right: 15px;" />
+</a>
+<a href="https://github.com/redcelltheory" target="_blank"  rel="noopener noreferrer" text-decoration: none;>
+  <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/github.svg" alt="GitHub" style="height: 30px;" />
+</a>
 
 ---
 
