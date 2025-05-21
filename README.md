@@ -72,6 +72,7 @@ The repositories are currently private and non-open-source. All code and content
 🤝 Contributions
 
 I'm working solo for now, but I’m always open to connecting with other science communicators, developers, designers, or any curious mind about the project.
+
 📬 Reach me at **contact@redcelltheory.fr**
 
 ---
