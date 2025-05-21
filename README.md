@@ -8,8 +8,8 @@
 
 ## 🧬 What is The Red Cell Theory ?
 
-![Status](https://img.shields.io/badge/status-in_progress-903624)
-![Role](https://img.shields.io/badge/role-content_creator-e18f37)
+![Status](https://img.shields.io/badge/status-in_progress-e18f37)
+![Role](https://img.shields.io/badge/role-content_creator-903624)
 ![Focus](https://img.shields.io/badge/focus-storytelling-b4ab93)
 ![Thematics](https://img.shields.io/badge/thematics-medical_research-aa5621)
 ![Language](https://img.shields.io/badge/language-Baguette_🥖-732b1d)
