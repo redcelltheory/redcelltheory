@@ -27,7 +27,7 @@ This space hosts development work for my digital platforms, community tools, beh
 <a href="" target="_blank"  rel="noopener noreferrer" style="margin-right: 20px; text-decoration: none; border-bottom: none;">
   <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/discord.svg" alt="Discord" style="height: 30px; margin-right: 15px; vertical-align: middle;"/>
 </a>
-<a href="https://github.com/redcelltheory" target="_blank"  rel="noopener noreferrer" text-decoration: none; border-bottom: none;">
+<a href="https://github.com/redcelltheory" target="_blank"  rel="noopener noreferrer" style="text-decoration: none; border-bottom: none;">
   <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/github.svg" alt="GitHub" style="height: 30px;" vertical-align: middle;/>
 </a>
 </p>
