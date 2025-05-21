@@ -1,10 +1,12 @@
-# 🧬 The Red Cell Theory
-
-[BANNER]
+<p align="center">
+  <a href="">
+    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/banners/banner_github.svg" alt="Banner The Red Cell Theory" style="width:100%;">
+  </a>
+</p>
 
 ---
 
-## 🧬 What is this project?
+## 🧬 What is The Red Cell Theory ?
 
 ![Status](https://img.shields.io/badge/status-in_progress-yellow)
 ![Focus](https://img.shields.io/badge/focus-science_storytelling-blueviolet)
