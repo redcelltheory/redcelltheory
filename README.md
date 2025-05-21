@@ -18,18 +18,16 @@ Welcome!
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
 <p align="left">
-  <a href="URL_YOUTUBE_A_REMPLACER" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none !important; border-bottom: none !important; display: inline-block; outline: 1px dashed red; /* Style de débogage */ vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" style="height: 30px; display: block; /* Pour éviter des espaces sous l'image */"/>
-  </a>
-  <a href="https://twitch.tv/theredcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none !important; border-bottom: none !important; display: inline-block; outline: 1px dashed red; /* Style de débogage */ vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/twitch.svg" alt="Twitch" style="height: 30px; display: block;"/>
-  </a>
-  <a href="URL_DISCORD_A_REMPLACER" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none !important; border-bottom: none !important; display: inline-block; outline: 1px dashed red; /* Style de débogage */ vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/discord.svg" alt="Discord" style="height: 30px; display: block;"/>
-  </a>
-  <a href="https://github.com/redcelltheory" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; border-bottom: none !important; display: inline-block; outline: 1px dashed red; /* Style de débogage */ vertical-align: top;"> {/* Pas de margin-right sur le dernier */}
-    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/github.svg" alt="GitHub" style="height: 30px; display: block;"/>
-  </a>
+  <span style="display: inline-block; margin-right: 80px; outline: 1px dashed green;">
+    <a href="URL_YOUTUBE_A_REMPLACER" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; border-bottom: none !important; display: inline-block; vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" style="height: 30px; display: block;"/>
+    </a>
+  </span>
+  <span style="display: inline-block; margin-right: 80px; outline: 1px dashed green;">
+    <a href="https://twitch.tv/theredcelltheory" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; border-bottom: none !important; display: inline-block; vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/twitch.svg" alt="Twitch" style="height: 30px; display: block;"/>
+    </a>
+  </span>
 </p>
 
 <p align="left">
