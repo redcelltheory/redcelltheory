@@ -72,7 +72,7 @@ If my work here ignites a spark of curiosity in you, even for a fleeting moment,
 ---
 
 ## 📜 License
-The repositories are currently private and non-open-source. All code and content are for internal use unless otherwise stated. If you’re interested in contributing or using anything here — feel free to reach out!
+The repositories are currently private and non-open-source. All code and content are for internal use unless otherwise stated. If you’re interested in contributing or using anything here — feel free to reach out (^～^)
 
 ---
 
