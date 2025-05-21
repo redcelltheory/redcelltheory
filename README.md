@@ -9,8 +9,8 @@
 ## 🧬 What is The Red Cell Theory ?
 
 ![Status](https://img.shields.io/badge/status-in_progress-yellow)
-![Focus](https://img.shields.io/badge/focus-science_storytelling-blueviolet)
-![Thematics](https://img.shields.io/badge/thematics-medical_research-lightred)
+![Focus](https://img.shields.io/badge/focus-storytelling-blueviolet)
+![Thematics](https://img.shields.io/badge/thematics-medical_research-orange)
 ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
 Welcome!
