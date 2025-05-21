@@ -12,7 +12,7 @@
 ![Focus](https://img.shields.io/badge/focus-storytelling-732b1d)
 ![Thematics](https://img.shields.io/badge/thematics-medical_research-e7ccab)
 ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
-![Language](https://img.shields.io/badge/contenu-Français%20🇫🇷-903624)
+![Language](https://img.shields.io/badge/language-French%20🇫🇷-903624)
 
 Welcome!
 
