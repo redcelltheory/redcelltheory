@@ -10,7 +10,6 @@
 
 ![Status](https://img.shields.io/badge/status-in_progress-yellow)
 ![Focus](https://img.shields.io/badge/focus-science_storytelling-blueviolet)
-![Made with](https://img.shields.io/badge/made_with-curiosity_&_passion-ff69b4)
 ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
 Welcome!
