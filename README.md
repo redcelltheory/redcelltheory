@@ -28,6 +28,19 @@ This space hosts development work for my digital platforms, community tools, beh
   <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/refs/heads/main/popular-logos/twitch.svg?token=GHSAT0AAAAAADD336RXNYULLI6FZU7IAXUE2BNXYIA" alt="Twitch" style="height: 30px; margin-right: 5px;" />
 </a>
 
+<a href="https://twitch.tv/theredcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/Yredcelltheory/branding-assets/main/popular-logos/twitch.svg" alt="Twitch" width="32" height="32"/>
+</a>
+<a href="https://www.youtube.com/@redcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" width="32" height="32"/>
+</a>
+<a href="" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/discord.svg" alt="Discord" width="32" height="32"/>
+</a>
+<a href="https://github.com/redcelltheory" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/github.svg" alt="GitHub" width="32" height="32"/>
+</a>
+
 ---
 
 ## 💻 What you’ll find here
