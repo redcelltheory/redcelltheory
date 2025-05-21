@@ -64,10 +64,10 @@ Technologies may change over time as the project grows.
 
 ## 🧠 Who is behind all this?
 
-Just me — a French scientist and epidemiologist who is trying new things outside the laboratory.
-I am not a professional content creator or developer and do this as a hobby on the side of my job.
+Just me — a French scientist and epidemiologist, stepping out from the lab to share stories from the world of research and public health.
+I'm exploring content creation and development as an enthusiastic hobbyist I pursue in my free time, alongside my professional career.
 
-If I can spark your curiosity, even just for a second, , then I’ll be truly happy :)
+If my work here ignites a spark of curiosity in you, even for a fleeting moment, that truly makes my day :)
 
 ---
 
