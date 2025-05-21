@@ -58,6 +58,7 @@ This GitHub is the behind-the-scenes tech & creative lab of the project. Reposit
 
 Technologies may change over time as the project grows.
 
+---
 
 ## 🧠 Who is behind all this?
 
@@ -66,8 +67,12 @@ I am not a professional content creator or developer and do this as a hobby on t
 
 If I can spark your curiosity, even just for a second, , then I’ll be truly happy :)
 
+---
+
 📜 License
 The repositories are currently private and non-open-source. All code and content are for internal use unless otherwise stated. If you’re interested in contributing or using anything here — feel free to reach out!
+
+---
 
 🤝 Contributions
 
