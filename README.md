@@ -68,7 +68,6 @@ I'm working solo for now, but I’m always open to connecting with other science
 
 🌐 Related Links and Networks
 
-[![Website](https://img.shields.io/badge/WWW-blue?style=for-the-badge)](https://www.redcelltheory.fr)
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.redcelltheory.fr)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@TheRedCellTheory)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/theredcelltheory)
