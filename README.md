@@ -46,7 +46,7 @@ This space hosts development work for my digital platforms, community tools, beh
 This GitHub is the behind-the-scenes tech & creative lab of the project. Repositories include:
 
 - 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs ![Public](https://img.shields.io/badge/-Public-darkgreen)
-- 🌐 `redcelltheory-website` → Code for the official website under development. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-brightgreen?style=flat-square)
+- 🌐 `redcelltheory-website` → Code for the official website under development. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers. *(🔒 Currently private development for internal tools)*
 - 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting. *(🔒 Internal tools, may share later)*
 - 🧪 `experiments` → Other experimental projects. *(🔒 Typically private unless otherwise noted)*
