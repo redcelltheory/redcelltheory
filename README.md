@@ -17,7 +17,7 @@
 
 Welcome!
 
-**The Red Cell Theory** is a personal project born from a former researcher with a soft spot for telling stories about science, research, and biomedical discoveries in an narrative, and hopefully in an entertaining way. After years in the lab, I stepped into this incredible journey of storytelling and truly hope my project will catch your heart. Whether it’s through video essays, livestreams, discord discussions, or short articles, my goal is try to make science feel as **interesting, accessible, and engaging** in my own small way. 
+**The Red Cell Theory** is a personal project born from a former researcher with a soft spot for telling stories about science, research, and biomedical discoveries in an narrative, and hopefully in an entertaining way. After years in the lab, I stepped into this incredible journey of storytelling and truly hope my project will catch your heart. Whether it’s through video essays, livestreams, discord discussions, or short articles, my goal is try to make science feel as **interesting, accessible, and engaging** in my own small way.
 
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
@@ -40,10 +40,38 @@ This space hosts development work for my digital platforms, community tools, beh
 
 ## 🚀 My current projects
 
+### 🌐 The Red Cell Theory - Website Project
+
+This is the central spot for updates on the official website for **The Red Cell Theory**! Our goal is to build an engaging and informative online platform for sharing science stories, biomedical discoveries, and fostering our community.
+
+**➡️ Visit the Website:** [www.redcelltheory.fr](https://www.redcelltheory.fr)
+*(Current Status: Under Active Development - Version 0.1 "Coming Soon" page is live!)*
+
+**What I'm Working On / Recent Progress:**
+* *(Manually update this line or bullet point periodically with your latest focus. For example: "Currently refining the responsive design of the v0.1 landing page." or "Just deployed the updated 'Coming Soon' page with new social links!")*
+
+**Key Features (v0.1 & Beyond):**
+* **Current (v0.1):**
+    * Responsive two-panel "Coming Soon" landing page.
+    * Includes: Logo, project description, contact email, social media links, and a background banner.
+* **Planned:**
+    * Blog section for articles and science shorts.
+    * Dedicated showcase for video essays and past livestreams.
+    * Interactive community features.
+
+**Tech Stack Highlights:**
+* **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
+* **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
+* **Icons:** [Font Awesome](https://fontawesome.com/).
+
+**(Optional - See Part 2) Track Detailed Development:**
+* Want to see the nitty-gritty tasks and progress? Check out our [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE) *(<- You'll create this link in Part 2 if you choose to)*.
+
+---
 
 ## 💻 What you’ll find here
 
-This GitHub is the behind-the-scenes tech & creative lab of the project. Repositories include:
+This GitHub is the behind-the-scenes tech & development lab of the project. Repositories include:
 
 - 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🌐 `redcelltheory-website` → Code for the official website under development. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Private-darkgrey) *(see [Project Status](#anchor-to-website-status-section-in-your-readme) for public updates)*
