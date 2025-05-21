@@ -38,15 +38,18 @@ This space hosts development work for my digital platforms, community tools, beh
 
 ---
 
+## 🚀 My current projects
+
+
 ## 💻 What you’ll find here
 
 This GitHub is the behind-the-scenes tech & creative lab of the project. Repositories include:
 
-- 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs.
-- 🌐 `redcelltheory-website` → Code for the official website under development.
-- 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers.
-- 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting.
-- 🧪 `experiments` → Other experimental projects.
+- 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs *(Public repository for shared assets)*.
+- 🌐 `redcelltheory-website` → Code for the official website under development. *(Private repository; see [Project Status](#anchor-to-website-status-section-in-your-readme) for public updates)*
+- 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers. *(Currently private development for internal tools)*
+- 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting. *(Internal tools, may share later)*
+- 🧪 `experiments` → Other experimental projects. *(Typically private unless otherwise noted)*
 
 ---
 
