@@ -48,7 +48,7 @@ This GitHub is the behind-the-scenes tech & development lab of the project. Repo
 - 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 - 🧪 `experiments` → Other experimental projects. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 
-[Detailed Projects Page](./PROJECTS.MD).
+If you want more informations about the projects, please visit the [Detailed Projects Page](./PROJECTS.md) + visible to public
 
 ---
 
