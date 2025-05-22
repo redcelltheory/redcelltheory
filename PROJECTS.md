@@ -20,13 +20,13 @@ For a more detailed view of task management and day-to-day progress on specific 
 
 * **What I'm Working On Now (Towards `v0.2`):**
     - [ ] Building out the foundational site architecture (Homepage, Articles, About, Contact sections).
-    * Integrating a Bootstrap template for a modern design and responsive user experience.
-    * Setting up the Django development environment and the admin panel (`django-admin`).
-    * Planning for multimedia integration, including a showcase for videos and past livestreams.
-    * Exploring interactive community features (comments, forums ?)
+    - [ ] Integrating a Bootstrap template for a modern design and responsive user experience.
+    - [ ] Setting up the Django development environment and the admin panel (`django-admin`).
+    - [ ] Planning for multimedia integration, including a showcase for videos and past livestreams.
+    - [ ] Exploring interactive community features (comments, forums ?)
     
 * **Main Technologies (Stack):**
-    * [x] **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
+    * **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
     * **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
     * **Hosting (target):** To be determined (e.g., PythonAnywhere, Heroku, VPS).
     * **Database (target):** PostgreSQL / SQLite (for development).
