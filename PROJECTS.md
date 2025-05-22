@@ -14,12 +14,12 @@ For a more detailed view of task management and day-to-day progress on specific 
 * **Live Status:** ![Site Live](https://img.shields.io/badge/%F0%9F%8C%8D%20Page%20is%20Live!-darkgreen?style=flat-square)
   
 * **Key features of version 0.1 (Launched! 🎉):**
-    * A responsive two-panel _Coming Soon_ landing page.
-    * Initial branding: Logo, project description, contact email, social media links, and a background banner.
-    * Initial deployment (the website is currently hosted locally).
+    - [x] A responsive two-panel _Coming Soon_ landing page.
+    - [x] Initial branding: Logo, project description, contact email, social media links, and a background banner.
+    - [x] Initial deployment (the website is currently hosted locally).
 
 * **What I'm Working On Now (Towards `v0.2`):**
-    * Building out the foundational site architecture (Homepage, Articles, About, Contact sections).
+    - [ ] Building out the foundational site architecture (Homepage, Articles, About, Contact sections).
     * Integrating a Bootstrap template for a modern design and responsive user experience.
     * Setting up the Django development environment and the admin panel (`django-admin`).
     * Planning for multimedia integration, including a showcase for videos and past livestreams.
