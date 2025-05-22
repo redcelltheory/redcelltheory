@@ -6,7 +6,7 @@ For a more detailed view of task management and day-to-day progress on specific 
 
 ---
 
-##  🌐 Website Project for The Red Cell Theory
+##  🌐 Website Project - www.redcelltheory.fr
 
 * **Description:** Creation of a web platform dedicated to **The Red Cell Theory**. The goal is to provide a centralized space for sharing popular science articles, news, educational resources, and potentially interviews in the biomedical field. The site aims to make science accessible, engaging, and visually appealing.
 * **Current Status:** Under Active Development.
