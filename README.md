@@ -21,6 +21,8 @@ Welcome!
 
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
+➡️ For a detailed overview of my projects, including progress and tech stacks, check out the publicly accessible [Detailed Projects Page](./PROJECTS.md).
+
 <p align="left">
   <a href="https://www.youtube.com/@redcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none; border-bottom: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" style="height: 30px; vertical-align: middle;"/>
@@ -38,7 +40,7 @@ This space hosts development work for my digital platforms, community tools, beh
 
 ---
 
-## 💻 My projects
+## 💻 What you'll find here
 
 This GitHub is the behind-the-scenes tech & development lab of the project. Repositories include:
 
@@ -48,7 +50,6 @@ This GitHub is the behind-the-scenes tech & development lab of the project. Repo
 - 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 - 🧪 `experiments` → Other experimental projects. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 
-For a detailed overview of the progress, goals, and technologies used for each project, ➡️ please visit the publicly accessible [Detailed Projects Page](./PROJECTS.md).
 
 ---
 
