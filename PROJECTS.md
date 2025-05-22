@@ -9,7 +9,7 @@ For a more detailed view of task management and day-to-day progress on specific 
 ##  1. 🌐 Website Project - www.redcelltheory.fr
 
 * **Description:** Creation of a web platform dedicated to **The Red Cell Theory**. The goal is to provide a centralized space for sharing popular science articles, news, educational resources, and potentially interviews in the biomedical field. The site aims to make science accessible, engaging, and visually appealing.
-* **Current Status:** Under Active Development ![Status](https://img.shields.io/badge/Status-Actively%20Developing-brightgreen?style=for-the-badge).
+* **Current Status:** Under Active Development.
 * **Version:** v0.1
 * **Live Status:** ![Site Live](https://img.shields.io/badge/Site%20Status-%F0%9F%8C%8D%20Page%20is%20Live!-darkgreen?style=flat-square) *(Locally Hosted)*
   
