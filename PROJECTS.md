@@ -2,7 +2,7 @@
 
 Welcome to my project tracking page! Here you'll find an overview of each projects I'm developing as part of **The Red Cell Theory**, its current status, objectives, and key next steps.
 
-For a more detailed view of task management and day-to-day progress on specific projects, feel free to explore their dedicated project boards (links provided below).
+For a more detailed view of task management and day-to-day progress on specific projects, feel free to explore their dedicated project boards _(links provided below)_.
 
 ---
 
@@ -38,21 +38,23 @@ For a more detailed view of task management and day-to-day progress on specific 
 
 ---
 
-## 2. 💬 Discord Server & Community
+## 2. 💬 Discord Server & Community Hub
 
-* **Description:** Development of a Discord server for **The Red Cell Theory** to create an active and engaged community. The goal is to provide a space for discussion, resource sharing, scientific feeds, medical news, and mutual support.
+* **Description:** To create an active and engaged Discord community. This server will provide a space for discussions, sharing resources, scientific feeds, medical news, feedbacks on videos and livestreams, and fostering mutual support among members.
 * **Current Status:** Planning - initial setup.
   
 * **Ongoing work:**
-    * Creating the basic Discord server structure (categories, initial chat and voice channels).
-    * Drafting a community charter, rules, server guide, etc.
-    * Setting up community settings, definition of roles and permissions (e.g., Sapphire).
-    * Onboarding process with automatic role attributions.
-    * Setting up Auto Moderation system, anti-spam security system
-    * Initial research and testing of bots for tracking RSS feeds (e.g., MonitoRSS).
+    * Designing the basic Discord server layout (categories, initial chat & voice channels).C
+    * Drafting a comprehensive community charter, rules, and server guidelines.
+    * Defining community settings, member roles and permissions (e.g., using Sapphire bot for assistance).
+    * Developing a smooth onboarding process with automatic role assignments.
+    * Implementing an auto-moderation system and anti-spam security measures.
+    * Initial research and testing of bots for tracking relevant RSS feeds (e.g., MonitoRSS for a start).
  
-* **Integrated Bots:**
-* Sapphire
-* MonitoRSS.
+* **Bot Integrations (In testing):**
+* **[Sapphire](https://sapphirebot.com/):** For moderation, utility, and role management. ![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square)
+* **[MonitoRSS](https://monitorss.xyz/):** For basic RSS feed monitoring. ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
 
-*More projects to come! Stay tuned ೕ(•̀ᴗ•́)
+---
+
+*More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و ̑̑*
