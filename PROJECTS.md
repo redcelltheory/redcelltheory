@@ -11,7 +11,7 @@ For a more detailed view of task management and day-to-day progress on specific 
 * **Description:** Creation of a web platform dedicated to **The Red Cell Theory**. The goal is to provide a centralized space for sharing popular science articles, news, educational resources, and potentially interviews in the biomedical field. The site aims to make science accessible, engaging, and visually appealing.
 * **Current Status:** Under Active Development.
 * **Version:** v0.1
-* **Live Status:** ![Site Live](https://img.shields.io/badge/Site%20Status-%F0%9F%8C%8D%20Page%20is%20Live!-darkgreen?style=flat-square)
+* **Live Status:** ![Site Live](https://img.shields.io/badge/%F0%9F%8C%8D%20Page%20is%20Live!-darkgreen?style=flat-square)
   
 * **Key features of version 0.1 (Launched! 🎉):**
     * A responsive two-panel _Coming Soon_ landing page.
@@ -28,7 +28,6 @@ For a more detailed view of task management and day-to-day progress on specific 
 * **Main Technologies (Stack):**
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
     * **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
     * **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/). 
     * **Hosting (target):** To be determined (e.g., PythonAnywhere, Heroku, VPS)
