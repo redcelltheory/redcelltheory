@@ -38,11 +38,7 @@ This space hosts development work for my digital platforms, community tools, beh
 
 ---
 
-## My Projects 💡
-
-For a detailed overview of the progress, goals, and technologies used for each project, ➡️ please visit the publicly accessible [Detailed Projects Page](./PROJECTS.md).
-
-## 💻 My repositories
+## 💻 My projects
 
 This GitHub is the behind-the-scenes tech & development lab of the project. Repositories include:
 
@@ -51,6 +47,8 @@ This GitHub is the behind-the-scenes tech & development lab of the project. Repo
 - 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Private_Code-darkgrey)
 - 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 - 🧪 `experiments` → Other experimental projects. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
+
+For a detailed overview of the progress, goals, and technologies used for each project, ➡️ please visit the publicly accessible [Detailed Projects Page](./PROJECTS.md).
 
 ---
 
