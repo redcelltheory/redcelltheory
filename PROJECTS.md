@@ -27,9 +27,9 @@ For a more detailed view of task management and day-to-day progress on specific 
     
 * **Main Technologies (Stack):**
     * **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
-    * **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/). 
-    * **Hosting (target):** To be determined (e.g., PythonAnywhere, Heroku, VPS)
-    * **Database (target):** PostgreSQL / SQLite (for development)
+    * **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
+    * **Hosting (target):** To be determined (e.g., PythonAnywhere, Heroku, VPS).
+    * **Database (target):** PostgreSQL / SQLite (for development).
 
       ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
