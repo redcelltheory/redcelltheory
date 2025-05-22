@@ -26,7 +26,7 @@ For a more detailed view of task management and day-to-day progress on specific 
     * Exploring interactive community features (comments, forums ?)
     
 * **Main Technologies (Stack):**
-    * **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
+    * [x] **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
     * **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
     * **Hosting (target):** To be determined (e.g., PythonAnywhere, Heroku, VPS).
     * **Database (target):** PostgreSQL / SQLite (for development).
