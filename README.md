@@ -40,7 +40,7 @@ This space hosts development work for my digital platforms, community tools, beh
 
 ---
 
-## 💻 What you'll find here
+## 📂 How This GitHub Space is Organized 
 
 This GitHub is the behind-the-scenes tech & development lab of the project. Repositories include:
 
