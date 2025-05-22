@@ -44,12 +44,12 @@ For a more detailed view of task management and day-to-day progress on specific 
 * **Current Status:** Planning - initial setup.
   
 * **Ongoing work:**
-    * Designing the basic Discord server layout (categories, initial chat & voice channels).C
-    * Drafting a comprehensive community charter, rules, and server guidelines.
-    * Defining community settings, member roles and permissions (e.g., using Sapphire bot for assistance).
-    * Developing a smooth onboarding process with automatic role assignments.
-    * Implementing an auto-moderation system and anti-spam security measures.
-    * Initial research and testing of bots for tracking relevant RSS feeds (e.g., MonitoRSS for a start).
+    - [ ] Designing the basic Discord server layout (categories, initial chat & voice channels).C
+    - [ ] Drafting a comprehensive community charter, rules, and server guidelines.
+    - [ ] Defining community settings, member roles and permissions (e.g., using Sapphire bot for assistance).
+    - [ ] Developing a smooth onboarding process with automatic role assignments.
+    - [ ] Implementing an auto-moderation system and anti-spam security measures.
+    - [ ] Initial research and testing of bots for tracking relevant RSS feeds (e.g., MonitoRSS for a start).
  
 * **Bot Integrations (In testing):**
     * **[Sapphire](https://sapphirebot.com/):** For moderation, utility, and role management. 
