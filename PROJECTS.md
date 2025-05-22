@@ -10,10 +10,9 @@ For a more detailed view of task management and day-to-day progress on specific 
 
 * **Description:** Creation of a web platform dedicated to **The Red Cell Theory**. The goal is to provide a centralized space for sharing popular science articles, news, educational resources, and potentially interviews in the biomedical field. The site aims to make science accessible, engaging, and visually appealing.
 * **Current Status:** Under Active Development.
-* **Version:** Version 0.1 _(initial phase)_ ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Page_is_live-darkgreen) 
+* **Version:** Version 0.1 _(initial phase)_
+* **Status:** ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Page_is_live-darkgreen) 
   
-**➡️ Visit the Website:** [www.redcelltheory.fr](https://www.redcelltheory.fr)
-
 **What I'm Working On / Recent Progress:**
 * *(Manually update this line or bullet point periodically...)*
 
