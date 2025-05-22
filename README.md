@@ -34,7 +34,10 @@ This space hosts development work for my digital platforms, community tools, beh
   <a href="https://github.com/redcelltheory" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border-bottom: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/github.svg" alt="GitHub" style="height: 30px; vertical-align: middle;"/>
   </a>
-</p>
+</p>  
+
+
+
 
 
 > [!NOTE]
