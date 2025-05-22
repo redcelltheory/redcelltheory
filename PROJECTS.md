@@ -31,7 +31,7 @@ For a more detailed view of task management and day-to-day progress on specific 
     * **Hosting (target):** To be determined (e.g., PythonAnywhere, Heroku, VPS)
     * **Database (target):** PostgreSQL / SQLite (for development)
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+      ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 * **Track Detailed Development 🗺️:**
     * Want to see the nitty-gritty tasks and progress? Check out the [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE_IF_YOU_CREATE_ONE).
