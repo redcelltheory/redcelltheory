@@ -23,9 +23,6 @@ This space hosts development work for my digital platforms, community tools, beh
 
 > [!NOTE]
 > For a detailed overview of my projects, please visit the publicly accessible [Projects Page](./PROJECTS.md).
->
-> 
-➡️ For a detailed overview of my projects, please visit the publicly accessible [Projects Page](./PROJECTS.md).
 
 <p align="left">
   <a href="https://www.youtube.com/@redcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none; border-bottom: none; display: inline-block;">
