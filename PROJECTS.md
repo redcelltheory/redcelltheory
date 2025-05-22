@@ -57,4 +57,5 @@ For a more detailed view of task management and day-to-day progress on specific 
       ![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square) ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
 ---
 
-*More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و ̑̑*
+*More projects are in the pipeline!  
+Stay tuned ೕ(•̀ᴗ•́)و ̑̑*
