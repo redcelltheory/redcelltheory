@@ -2,38 +2,37 @@
 
 Welcome to my project tracking page! Here you'll find an overview of each projects I'm developing as part of **The Red Cell Theory**, its current status, objectives, and key next steps.
 
-For a more detailed view of task management and day-to-day progress on specific projects, feel free to check out their dedicated project boards (links provided below).
+For a more detailed view of task management and day-to-day progress on specific projects, feel free to explore their dedicated project boards (links provided below).
 
 ---
 
 ##  1. 🌐 Website Project - www.redcelltheory.fr
 
 * **Description:** Creation of a web platform dedicated to **The Red Cell Theory**. The goal is to provide a centralized space for sharing popular science articles, news, educational resources, and potentially interviews in the biomedical field. The site aims to make science accessible, engaging, and visually appealing.
-* **Current Status:** Under Active Development.
-* **Version:** 0.1
-* **Website Status:** ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Page_is_Live!-darkgreen) 
+* **Current Status:** Under Active Development ![Status](https://img.shields.io/badge/Status-Actively%20Developing-brightgreen?style=for-the-badge).
+* **Version:** v0.1
+* **Live Status:** ![Site Live](https://img.shields.io/badge/Site%20Status-%F0%9F%8C%8D%20Page%20is%20Live!-darkgreen?style=flat-square) *(Locally Hosted)*
   
-* **Key features of version 0.1:**
-    * Responsive two-panel _Coming Soon_ landing page.
-    * Includes: Logo, project description, contact email, social media links, and a background banner.
-    * Initial deployment. The server is hosted locally.
+* **Key features of version 0.1 (Launched! 🎉):**
+    * A responsive two-panel _Coming Soon_ landing page.
+    * Initial branding: Logo, project description, contact email, social media links, and a background banner.
+    * Initial deployment (the website is currently hosted locally).
 
-* **Ongoing work:**
-    * Make a basic site structure (home, articles, about, contact).
-    * Started Bootstrap template integration to get a responsive and modern design.
-    * Django development environment setup
-    * Creation of the administration system (django-admin).
-    * Multimedia content integration such as showcase for videos and past livestreams.
-    * Interactive community features (comments, forum ?).
+* **What I'm Working On Now (Towards `v0.2`):**
+    * Building out the foundational site architecture (Homepage, Articles, About, Contact sections).
+    * Integrating a Bootstrap template for a modern design and responsive user experience.
+    * Setting up the Django development environment and the admin panel (`django-admin`).
+    * Planning for multimedia integration, including a showcase for videos and past livestreams.
+    * Exploring interactive community features (comments, forums ?)
     
 * **Main Technologies (Stack):**
-    * **Backend:** Python with the [Django](https://www.djangoproject.com/) framework.
-    * **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
+    * **Backend:** Python with the [Django](https://www.djangoproject.com/) framework. ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+    * **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/). ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
     * **Hosting (target):** To be determined (e.g., PythonAnywhere, Heroku, VPS)
     * **Database (target):** PostgreSQL / SQLite (for development)
 
-* **Track Detailed Development:**
-* Want to see the nitty-gritty tasks and progress? Check out our [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE_IF_YOU_CREATE_ONE).
+* **Track Detailed Development 🗺️:**
+* Want to see the nitty-gritty tasks and progress? Check out the [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE_IF_YOU_CREATE_ONE).
 
 ---
 
