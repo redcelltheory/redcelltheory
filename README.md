@@ -48,7 +48,7 @@ This GitHub is the behind-the-scenes tech & development lab of the project. Repo
 - 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 - 🧪 `experiments` → Other experimental projects. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 
-(The link [Detailed Projects Page](https://raw.githubusercontent.com/redcelltheory/redcelltheory/refs/heads/main/PROJECTS.md)).
+[Detailed Projects Page](./PROJECTS.MD).
 
 ---
 
