@@ -21,6 +21,10 @@ Welcome!
 
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
+> [!NOTE]
+> For a detailed overview of my projects, please visit the publicly accessible [Projects Page](./PROJECTS.md).
+>
+> 
 ➡️ For a detailed overview of my projects, please visit the publicly accessible [Projects Page](./PROJECTS.md).
 
 <p align="left">
