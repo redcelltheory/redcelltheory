@@ -33,8 +33,9 @@ For a more detailed view of task management and day-to-day progress on specific 
 
       ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-* **Track Detailed Development 🗺️:**
-    * Want to see the nitty-gritty tasks and progress? Check out the [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE_IF_YOU_CREATE_ONE).
+> [!NOTE]
+> **Track Detailed Development 🗺️:**
+> Want to see the nitty-gritty tasks and progress? Check out the [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE_IF_YOU_CREATE_ONE).
 
 ---
 
@@ -58,5 +59,4 @@ For a more detailed view of task management and day-to-day progress on specific 
       ![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square) ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
 ---
 
-> [!NOTE]
-> *More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و ̑̑*
+*More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و ̑̑*
