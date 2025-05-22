@@ -52,10 +52,10 @@ For a more detailed view of task management and day-to-day progress on specific 
     * Initial research and testing of bots for tracking relevant RSS feeds (e.g., MonitoRSS for a start).
  
 * **Bot Integrations (In testing):**
-* **[Sapphire](https://sapphirebot.com/):** For moderation, utility, and role management. 
-* **[MonitoRSS](https://monitorss.xyz/):** For basic RSS feed monitoring. 
+    * **[Sapphire](https://sapphirebot.com/):** For moderation, utility, and role management. 
+    * **[MonitoRSS](https://monitorss.xyz/):** For basic RSS feed monitoring. 
 
-    * ![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square) ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
+      ![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square) ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
 ---
 
 *More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و ̑̑*
