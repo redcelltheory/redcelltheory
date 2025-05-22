@@ -34,7 +34,7 @@ For a more detailed view of task management and day-to-day progress on specific 
 
 > [!NOTE]
 > **Track Detailed Development 🗺️:**
-> Want to see the nitty-gritty tasks and progress? Check out the [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE_IF_YOU_CREATE_ONE).
+> Want to see the nitty-gritty tasks and progress? Check out the [Public Development Board](https://github.com/users/redcelltheory/projects/3).
 
 ---
 
