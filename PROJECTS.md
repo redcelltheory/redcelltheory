@@ -34,7 +34,7 @@ For a more detailed view of task management and day-to-day progress on specific 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 * **Track Detailed Development 🗺️:**
-* Want to see the nitty-gritty tasks and progress? Check out the [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE_IF_YOU_CREATE_ONE).
+    * Want to see the nitty-gritty tasks and progress? Check out the [Public Development Board](LINK_TO_YOUR_PUBLIC_GITHUB_PROJECT_BOARD_HERE_IF_YOU_CREATE_ONE).
 
 ---
 
@@ -52,9 +52,10 @@ For a more detailed view of task management and day-to-day progress on specific 
     * Initial research and testing of bots for tracking relevant RSS feeds (e.g., MonitoRSS for a start).
  
 * **Bot Integrations (In testing):**
-* **[Sapphire](https://sapphirebot.com/):** For moderation, utility, and role management. ![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square)
-* **[MonitoRSS](https://monitorss.xyz/):** For basic RSS feed monitoring. ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
+* **[Sapphire](https://sapphirebot.com/):** For moderation, utility, and role management. 
+* **[MonitoRSS](https://monitorss.xyz/):** For basic RSS feed monitoring. 
 
+![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square) ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
 ---
 
 *More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و ̑̑*
