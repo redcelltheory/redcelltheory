@@ -30,7 +30,6 @@ For a more detailed view of task management and day-to-day progress on specific 
     - **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
     - **Hosting:** Currently hosted locally.
     - **Database (target):** PostgreSQL / SQLite (for development).  
-
       ![Backend](https://img.shields.io/badge/Backend-Python_3.12_&_Django-blue?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-HTML5_CSS3_Javascript-darkgreen?style=flat-square) ![Toolkit](https://img.shields.io/badge/Toolkit-Bootstrap_5-blueviolet?style=flat-square)
 
 > [!NOTE]
@@ -55,7 +54,6 @@ For a more detailed view of task management and day-to-day progress on specific 
 * **Bot Integrations (in testing):**
     - [Sapphire](https://sapphirebot.com/): For moderation, utility, and role management.
     - [MonitoRSS](https://monitorss.xyz/): For basic RSS feed monitoring.  
-
       ![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square) ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
 ---
 
