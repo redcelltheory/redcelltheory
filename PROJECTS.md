@@ -57,8 +57,11 @@ For a more detailed view of task management and day-to-day progress on specific 
  
 * **Bot Integrations (in testing):**
     - [Sapphire](https://sapphirebot.com/): For moderation, utility, and role management.
-    - [MonitoRSS](https://monitorss.xyz/): For basic RSS feed monitoring.  
-      ![Sapphire](https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square) ![MonitoRSS](https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square)
+    - [MonitoRSS](https://monitorss.xyz/): For basic RSS feed monitoring.
+      <p>
+        <img src="https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square" />
+      </p>
 ---
 
 *More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و ̑̑*
