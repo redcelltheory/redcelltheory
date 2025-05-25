@@ -30,7 +30,7 @@ For a more detailed view of task management and day-to-day progress on specific 
     - **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
     - **Hosting (target):** To be determined (e.g., PythonAnywhere, Heroku, VPS).
     - **Database (target):** PostgreSQL / SQLite (for development).  
-      ![Backend](https://img.shields.io/badge/Backend-Python_3.12_&_Django-blueviolet?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-HTML5_CSS3_Javascript-darkgreen?style=flat-square) ![Toolkit](https://img.shields.io/badge/Toolkit-Bootstrap_5-darkpurple?style=flat-square)
+      ![Backend](https://img.shields.io/badge/Backend-Python_3.12_&_Django-blueviolet?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-HTML5_CSS3_Javascript-darkgreen?style=flat-square) ![Toolkit](https://img.shields.io/badge/Toolkit-Bootstrap_5-blue?style=flat-square)
 
 > [!NOTE]
 > **Track Detailed Development 🗺️:**
