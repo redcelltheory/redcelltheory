@@ -29,7 +29,13 @@ For a more detailed view of task management and day-to-day progress on specific 
     - **Backend:** Python 3.12 with the [Django](https://www.djangoproject.com/) framework.
     - **Frontend:** HTML5, CSS3, JavaScript with [Bootstrap 5](https://getbootstrap.com/).
     - **Hosting:** Currently hosted locally.
-    - **Database (target):** PostgreSQL / SQLite (for development).  
+    - **Database (target):** PostgreSQL / SQLite (for development).
+      <p>
+        <img src="https://img.shields.io/badge/Backend-Python_3.12_&_Django-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Frontend-HTML5_CSS3_Javascript-darkgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Toolkit-Bootstrap_5-blueviolet?style=flat-square" />
+      </p>
+      
       ![Backend](https://img.shields.io/badge/Backend-Python_3.12_&_Django-blue?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-HTML5_CSS3_Javascript-darkgreen?style=flat-square) ![Toolkit](https://img.shields.io/badge/Toolkit-Bootstrap_5-blueviolet?style=flat-square)
 
 > [!NOTE]
