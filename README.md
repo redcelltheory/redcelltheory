@@ -4,6 +4,21 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.youtube.com/@redcelltheory" target="_blank">
+    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" height="32">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitch.tv/theredcelltheory" target="_blank">
+    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/twitch.svg" alt="Twitch" height="32">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
+    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/discord.svg" alt="Discord" height="32">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/redcelltheory" target="_blank">
+    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/github.svg" alt="GitHub" height="32">
+  </a>
+</p>
+
 ---
 
 ## 🧬 What is The Red Cell Theory ?
