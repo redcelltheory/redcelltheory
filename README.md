@@ -22,21 +22,6 @@ Welcome!
 This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
 
 <p align="left">
-  <a href="https://www.youtube.com/@redcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none; border-bottom: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" style="height: 30px; vertical-align: middle;"/>
-  </a>
-  <a href="https://twitch.tv/theredcelltheory" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none; border-bottom: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/twitch.svg" alt="Twitch" style="height: 30px; vertical-align: middle;"/>
-  </a>
-  <a href="URL_DISCORD_A_REMPLACER" target="_blank" rel="noopener noreferrer" style="margin-right: 80px; text-decoration: none; border-bottom: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/discord.svg" alt="Discord" style="height: 30px; vertical-align: middle;"/>
-  </a>
-  <a href="https://github.com/redcelltheory" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border-bottom: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/github.svg" alt="GitHub" style="height: 30px; vertical-align: middle;"/>
-  </a>
-</p> 
-
-<p align="left">
   <a href="https://www.youtube.com/@redcelltheory" target="_blank">
     <img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" height="32" style="margin-right: 20px;">
   </a>
