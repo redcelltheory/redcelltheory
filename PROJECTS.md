@@ -64,4 +64,4 @@ For a more detailed view of task management and day-to-day progress on specific 
       </p>
 ---
 
-*More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و 
+More projects are in the pipeline! Stay tuned ೕ(•̀ᴗ•́)و 
