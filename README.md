@@ -17,9 +17,9 @@
 
 Welcome!
 
-**The Red Cell Theory** is a personal project born from a former researcher with a soft spot for telling stories about science, research, and biomedical discoveries in an narrative, and hopefully in an entertaining way. After years in the lab, I stepped into this incredible journey of storytelling and truly hope my project will catch your heart. Whether it’s through video essays, livestreams, discord discussions, or short articles, my goal is try to make science feel as **interesting, accessible, and engaging** in my own small way.
+**The Red Cell Theory** is a personal project born from a researcher with a soft spot for telling stories about science, research, and biomedical discoveries in an narrative, and hopefully in an entertaining way. After years in the lab, I am trying to step into this incredible journey of storytelling and truly hope my project will catch your heart. Whether it’s through story videos, livestreams, discord discussions, or short articles, my goal is try to make science feel as **interesting, accessible, and engaging** in my own small way.
 
-This space hosts development work for my digital platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (I remain a researcher at heart 🧪✨).
+This space hosts development work for my different platforms, community tools, behind-the-scenes bits of my content, and other eventual experimental projects (🧪✨).
 
 <p align="left"><a href="https://www.youtube.com/@redcelltheory" target="_blank"><img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/youtube.svg" alt="YouTube" height="32" style="margin-right: 20px;"></a>&nbsp;&nbsp;
 <a href="https://twitch.tv/theredcelltheory" target="_blank"><img src="https://raw.githubusercontent.com/redcelltheory/branding-assets/main/popular-logos/twitch.svg" alt="Twitch" height="32" style="margin-right: 20px;"></a>&nbsp;&nbsp;
@@ -40,7 +40,7 @@ This GitHub is the behind-the-scenes tech & development lab of the project. Repo
 - 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🌐 `redcelltheory-website` → Code for the official website under development. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Private_Code-darkgrey)
 - 🎥 `video-scripts` → Tools for subtitling, scripting, or metadata formatting. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
-- 🔬 `epi-lab` → Shared datasets, statistical scripts, and results from the diverse participatory research with the community. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
+- 🔬 `epi-lab` → Shared datasets, statistical scripts, and results from diverse participatory research led with the community. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Private_Code-darkgrey)
 
 ---
