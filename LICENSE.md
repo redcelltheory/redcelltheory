@@ -6,8 +6,6 @@ The Red Cell Theory © 2025. is licensed under the **Creative Commons Attributio
 
 To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-----------------------------------------------------------------
-
 ## Legal Code
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
@@ -28,7 +26,6 @@ original works of authorship and other material subject to copyright
 and certain other rights specified in the public license below. The
 following considerations are for informational purposes only, are not
 exhaustive, and do not form part of our licenses.
-
 
 Considerations for licensors: Our public licenses are
 intended for use by those authorized to give the public
@@ -61,9 +58,9 @@ respect those requests where reasonable. More considerations
 for the public:
 wiki.creativecommons.org/Considerations_for_licensees
 
-=======================================================================
+---------------------------------------------------------------------
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
@@ -77,7 +74,7 @@ Licensor receives from making the Licensed Material available under
 these terms and conditions.
 
 
-Section 1 -- Definitions.
+### Section 1 -- Definitions.
 
   a. Adapted Material means material subject to Copyright and Similar
      Rights that is derived from or based upon the Licensed Material
@@ -157,7 +154,7 @@ Section 1 -- Definitions.
      under this Public License. Your has a corresponding meaning.
 
 
-Section 2 -- Scope.
+### Section 2 -- Scope.
 
   a. License grant.
 
@@ -243,7 +240,7 @@ Section 2 -- Scope.
           purposes.
 
 
-Section 3 -- License Conditions.
+### Section 3 -- License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
@@ -309,7 +306,7 @@ following conditions.
           rights granted under the Adapter's License You apply.
 
 
-Section 4 -- Sui Generis Database Rights.
+### Section 4 -- Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that
 apply to Your use of the Licensed Material:
@@ -333,7 +330,7 @@ replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
 
 
-Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+### Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 
   a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
      EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
@@ -362,7 +359,7 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      waiver of all liability.
 
 
-Section 6 -- Term and Termination.
+### Section 6 -- Term and Termination.
 
   a. This Public License applies for the term of the Copyright and
      Similar Rights licensed here. However, if You fail to comply with
@@ -391,7 +388,7 @@ Section 6 -- Term and Termination.
      License.
 
 
-Section 7 -- Other Terms and Conditions.
+### Section 7 -- Other Terms and Conditions.
 
   a. The Licensor shall not be bound by any additional or different
      terms or conditions communicated by You unless expressly agreed.
@@ -401,7 +398,7 @@ Section 7 -- Other Terms and Conditions.
      independent of the terms and conditions of this Public License.
 
 
-Section 8 -- Interpretation.
+### Section 8 -- Interpretation.
 
   a. For the avoidance of doubt, this Public License does not, and
      shall not be interpreted to, reduce, limit, restrict, or impose
@@ -424,7 +421,7 @@ Section 8 -- Interpretation.
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
 
-=======================================================================
+-------------------------------------------------------------
 
 Creative Commons is not a party to its public
 licenses. Notwithstanding, Creative Commons may elect to apply one of
