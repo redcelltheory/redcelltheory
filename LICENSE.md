@@ -1,10 +1,8 @@
 ## License
 
-The Red Cell Theory © 2025. is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**. All rights reserved.
+The Red Cell Theory © 2025. is licensed under the **<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**</a>**.
 
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="height: 2em; display: inline-block;"> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="height: 2em; display: inline-block;"> <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC" style="height: 2em; display: inline-block;"> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA" style="height: 2em; display: inline-block;">
-
-To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Legal Code
 
@@ -60,8 +58,7 @@ wiki.creativecommons.org/Considerations_for_licensees
 
 ---------------------------------------------------------------------
 
-## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-Public License
+## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
