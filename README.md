@@ -35,13 +35,14 @@ This space hosts development work for my different platforms, community tools, b
 
 ## 📂 How This GitHub Space is Organized 
 
-This GitHub is the behind-the-scenes tech & development lab of the project. Repositories include:
+This GitHub is the behind-the-scenes tech & development lab of the project. 
+Repositories include:
 
 - 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
-- 🌐 `redcelltheory-website` → Code for the official website under development. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Private_Code-darkgrey)
+- 🌐 `redcelltheory-website` → Code for the official website under development. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 - 🎥 `video-scripts` → Tools for subtitling, scripting, or metadata formatting. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🔬 `epi-lab` → Shared datasets, statistical scripts, and results from diverse participatory research led with the community. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
-- 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Private_Code-darkgrey)
+- 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 
 ---
 
