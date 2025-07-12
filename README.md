@@ -37,12 +37,11 @@ This space hosts development work for my digital platforms, community tools, beh
 
 This GitHub is the behind-the-scenes tech & development lab of the project. Repositories include:
 
-- 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
+- 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🌐 `redcelltheory-website` → Code for the official website under development. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Private_Code-darkgrey)
+- 🎥 `video-scripts` → Tools for subtitling, scripting, or metadata formatting. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
+- 🔬 `epi-lab` → Shared datasets, statistical methods, scripts, and results from the diverse participatory research with the community. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Private_Code-darkgrey)
-- 🎥 `video-support-scripts` → Tools for subtitling, scripting, or metadata formatting. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
-- 🧪 `experiments` → Other experimental projects. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
-
 
 ---
 
