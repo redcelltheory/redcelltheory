@@ -68,7 +68,23 @@ If my work here ignites a spark of curiosity in you, even for a fleeting moment,
 ---
 
 ## 📜 License
-The repositories are currently private and non-open-source. All code and content are for internal use unless otherwise stated. If you’re interested in contributing or using anything here — feel free to reach out  ٩( ᐛ )و
+
+### Work-in-progress
+
+Most projects and repositories are currently private and under active development. All code and content are for internal use only and are not open-source, unless otherwise stated.
+
+### Published Content
+
+As I finalize and publish content from this project (such as video scripts, transcripts, articles, and survey datasets), they will be made publicly available under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+
+<a href="https://creativecommons.org">The Red Cell Theory</a> © 2025 is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;">
+
+This license means you are free to share and adapt any of my *published* material for non-commercial purposes, as long as you provide proper attribution and share your creations under the same terms. Please see the `LICENSE.md` file for the full text.
+
+If you’re interested in contributing or have questions about using any content, please feel free to reach out! ٩( ᐛ )و
+
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ---
 
