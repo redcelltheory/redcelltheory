@@ -47,7 +47,7 @@ For a more detailed view of task management and day-to-day progress on specific 
 * **Description:** To create an active and engaged Discord community. This server will provide a space for discussions, sharing resources, scientific feeds, medical news, feedbacks on videos and livestreams, and fostering mutual support among members.
 * **Current Status:** Planning - initial setup.
   
-* **What I'm Working On Now :**
+* **Ongoing work :**
     - [ ] Designing the basic Discord server layout (categories, initial chat & voice channels).C
     - [ ] Drafting a comprehensive community charter, rules, and server guidelines.
     - [ ] Defining community settings, member roles and permissions (e.g., using Sapphire bot for assistance).
@@ -57,7 +57,7 @@ For a more detailed view of task management and day-to-day progress on specific 
  
 * **Bot Integrations (in testing):**
     - [Sapphire](https://sapphirebot.com/): For moderation, utility, and role management.
-    - [MonitoRSS](https://monitorss.xyz/): For basic RSS feed monitoring.
+    - [MonitoRSS](https://monitorss.xyz/): For automatized RSS feeds.
       <p>
         <img src="https://img.shields.io/badge/Bot-Sapphire-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/Bot-MonitoRSS-orange?style=flat-square" />
