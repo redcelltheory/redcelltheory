@@ -40,7 +40,7 @@ Repositories include:
 
 - 🎨 `branding-assets` → Repository for visual identity such as logos, banners, channel arts, SVGs. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🎥 `video-scripts` → Transcripts, subtitles, and public metadata for released videos. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
-- 🔬 `epi-lab` → Datasets, analysis scripts, and results from our diverse participatory research led with the community. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
+- 🔬 `epi-lab` → Datasets, analysis and modeling scripts from our diverse participatory research led with the community. ![Status](https://img.shields.io/badge/-%F0%9F%8C%8D%20Public-darkgreen)
 - 🌐 `redcelltheory-website` → Source code for our website under development. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 - 🤖 `community-tools` → Discord bots, moderation scripts, automation helpers. ![Status](https://img.shields.io/badge/-%F0%9F%94%92%20Internal-darkgrey)
 
@@ -50,6 +50,7 @@ Repositories include:
 
 - **HTML, CSS, JavaScript** — for website development and visual layouts.
 - **Python 3.12** — for scripting, automation, and various backend tasks.
+- **R** — for epidemiological analysis, statistical modeling, and interactive dashboarding.
 - **Adobe Photoshop 2025** — for graphic design, including banners, logos, and other visual assets.
 - **Adobe Audition 2025** - for audio recording and editing.
 - **Adobe Premiere Pro 2025** - for video production and editing.
