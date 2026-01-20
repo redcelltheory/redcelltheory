@@ -10,7 +10,7 @@ For a more detailed view of task management and day-to-day progress on specific 
 
 * **Description:** Creation of a web platform dedicated to **The Red Cell Theory**. The goal is to provide a centralized space for sharing popular science articles, news, educational resources, and potentially interviews in the biomedical field. The site aims to make science accessible, engaging, and visually appealing.
 * **Current Status:** Under Active Development.
-* **Version:** v0.1
+* **Version:** 0.1
 * **Live Status:** ![Site Live](https://img.shields.io/badge/%F0%9F%8C%8D%20Page%20is%20Live!-darkgreen?style=flat-square)
   
 * **Key features of version 0.1 (Launched! 🎉):**
@@ -47,7 +47,7 @@ For a more detailed view of task management and day-to-day progress on specific 
 * **Description:** To create an active and engaged Discord community. This server will provide a space for discussions, sharing resources, scientific feeds, medical news, feedbacks on videos and livestreams, and fostering mutual support among members.
 * **Current Status:** Planning - initial setup.
   
-* **Ongoing work:**
+* **What I'm Working On Now :**
     - [ ] Designing the basic Discord server layout (categories, initial chat & voice channels).C
     - [ ] Drafting a comprehensive community charter, rules, and server guidelines.
     - [ ] Defining community settings, member roles and permissions (e.g., using Sapphire bot for assistance).
